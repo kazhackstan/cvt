@@ -16,3 +16,13 @@
 * Links
 	* https://www.youtube.com/watch?v=3TUKYjFhQPU
 	* https://pythonworld.ru/numpy/100-exercises.html
+
+#### Day 2
+* Image binarization
+    *   Three basic methods
+    * otsu searches порог dynamically
+* Morphologic functions
+    * erosion
+    * dilation
+    * opening (erosion + dilation)
+    * closing (dilation + erosion)
